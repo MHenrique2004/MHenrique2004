@@ -5,7 +5,7 @@
 <p align="center">Olá, meu nome é Maurício! Eu sou estudante do curso de Análise e Desenvolvimento de Sistemas. Hoje sou um <strong>Programador iniciante</strong> focado em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MHenrique2004&theme=tokyonight&locale=pt_BR" />
+<img width=47.2% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MHenrique2004&theme=tokyonight&locale=pt_BR" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHenrique2004&show_icons=true&theme=tokyonight&layout=compact" />
  </div>
  
