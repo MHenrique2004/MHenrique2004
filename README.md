@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/MHenrique2004/MHenrique2004/main/Intro.png?token=GHSAT0AAAAAACIQTWOS3WJKTNF3BHVSY5GWZJG7MZA" />
+<img align="center" style="margin-bottom:100px" width=100% src="" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Olá, meu nome é Maurício! Eu sou estudante do curso de Análise e Desenvolvimento de Sistemas. Hoje sou um <strong>Programador iniciante</strong> focado em desenvolvimento web.</p>&nbsp;
