@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=890px height=250px src="https://illlustrations.co/static/51910853e26bd8a9c89c36d25498c2c6/118-macbook.svg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Olá, meu nome é Maurício! Eu sou estudante do curso de Análise e Desenvolvimento de Sistemas. Hoje sou um <strong>Programador iniciante</strong> focado em desenvolvimento web.</p>&nbsp;
+<p align="center">Olá, meu nome é Maurício! Eu sou estudante do curso de Análise e Desenvolvimento de Sistemas. Hoje sou um <strong>Programador iniciante</strong> focado em data science e IA.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=47.2% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MHenrique2004&theme=tokyonight&locale=pt_BR" />
